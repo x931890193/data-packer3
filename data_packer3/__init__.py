@@ -3,7 +3,7 @@ from .field import *
 from . import field, checker, converter, container, constant, err
 
 __title__ = 'data_packer3'
-__version__ = '2.0.1'
+__version__ = '2.1.0'
 __author__ = 'sato'
 __license__ = 'MIT'
 
