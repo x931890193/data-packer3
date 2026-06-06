@@ -16,7 +16,7 @@ import data_packer3
 # Example usage
 from data_packer3 import DataPacker
 ```
-
+Ref: https://github.com/ideascf/data-packer
 ## Version
 
 Current version: 2.0.0
